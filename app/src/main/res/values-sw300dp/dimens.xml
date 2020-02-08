@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_card_text_size">14sp</dimen>
+    <dimen name="tv_card_text_small_size">12sp</dimen>
+    <dimen name="tv_card_layout_margin">4dp</dimen>
+
+    <dimen name="thumbnail_size">40dp</dimen>
+</resources>
+
